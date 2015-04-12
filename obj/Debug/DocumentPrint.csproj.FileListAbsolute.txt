@@ -1,8 +1,0 @@
-C:\Users\XiaoSanya\Documents\SharpDevelop Projects\DocumentPrint\DocumentPrint\bin\Debug\DocumentPrint.pdb
-C:\Users\XiaoSanya\Documents\SharpDevelop Projects\DocumentPrint\DocumentPrint\obj\Debug\DocumentPrint.pdb
-C:\Users\XiaoSanya\Documents\SharpDevelop Projects\DocumentPrint\DocumentPrint\bin\Debug\DocumentPrint.exe
-C:\Users\XiaoSanya\Documents\SharpDevelop Projects\DocumentPrint\DocumentPrint\obj\Debug\DocumentPrint.MainForm.resources
-C:\Users\XiaoSanya\Documents\SharpDevelop Projects\DocumentPrint\DocumentPrint\obj\Debug\DocumentPrint.csproj.GenerateResource.Cache
-C:\Users\XiaoSanya\Documents\SharpDevelop Projects\DocumentPrint\DocumentPrint\obj\Debug\DocumentPrint.exe
-C:\Users\XiaoSanya\Documents\SharpDevelop Projects\DocumentPrint\DocumentPrint\bin\Debug\O2S.Components.PDFRender4NET.dll
-C:\Users\XiaoSanya\Documents\SharpDevelop Projects\DocumentPrint\DocumentPrint\obj\Debug\DocumentPrint.csprojResolveAssemblyReference.cache

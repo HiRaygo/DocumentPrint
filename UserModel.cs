@@ -69,7 +69,7 @@ namespace DocumentPrint
         /// <summary>
         /// Can Not Close File
         /// </summary>
-        PRINTING_ERROR = 14
+        ERROR_WHEN_PRINTING = 14
     }
 
     /// <summary>
@@ -432,7 +432,7 @@ namespace DocumentPrint
         	using (PdfPrint objPdf = new PdfPrint(file.FullName))
             {
             	//Start to print
-                objPdf.Print(this.Printer.DeviceID);                                       
+                objPdf.PrintX(this.Printer.DeviceID);                                       
             	//Get print result
             	if (objPdf.PrintResult == 0){
             		return DocPrintResult.SENT_SUCCESSFULLY;                                		
@@ -471,7 +471,7 @@ namespace DocumentPrint
 			}  
 			catch  
 			{  
-				ret = DocPrintResult.PRINTING_ERROR;
+				ret = DocPrintResult.ERROR_WHEN_PRINTING;
 			}
 			finally
 			{
